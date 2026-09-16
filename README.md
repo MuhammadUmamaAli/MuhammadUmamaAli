@@ -10,7 +10,7 @@ Frontend: React, TypeScript, HTML, CSS, SASS, JavaScript, State Management (Redu
 Backend: Node.js, Express (for some full-stack projects)
 Other Tools: Firebase, Stripe, Git, Vite, Tailwind CSS, Material UI, Ant Design, Daisy UI
 ### 🛠️ Tools & Languages
-<img src="https://skillicons.dev/icons?i=react,ts,html,css,sass,js,nodejs,express,firebase,tailwind,materialui,git" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css,sass,js,nodejs,express,firebase,materialui,vite,tailwind" />
 
 <!---
 MuhammadUmamaAli/MuhammadUmamaAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
